@@ -1,0 +1,10 @@
+body{
+	
+	background-image: url("Tulips.jpg");
+	background-attachment: fixed;
+	background-position: 100% 100%;
+	background-repeat: no-repeat;
+}
+p{
+	line-height: 500%;
+}
