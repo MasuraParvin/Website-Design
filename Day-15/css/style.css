@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background-color: #0269C2;
+	color: white;
+	border: none;
+	text-align: center;
+	margin-top: 0px;
+	padding: 6px;
+}
+.jumbotron {
+  margin-top: -19px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #5F4687;
+    color: white;
+    padding: 27px;
+}
+#d1{
+	margin-left: 45px;
+	font-size: 27px;
+}
+.s{
+margin-left: 40px;	
+color: cyan;
+}
