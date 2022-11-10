@@ -1,0 +1,18 @@
+table,tr,td,th{
+	width:60%;
+	border:1px solid #ddd;
+	border-collapse: collapse;
+	padding:8px;
+}
+.r1{
+	background-color:#04AA6D;
+}
+tr:nth-child(even){
+	background-color:#f2f2f2;
+}
+tr:hover{
+	background-color:#ddd;
+}
+b{
+	display:block;
+}
