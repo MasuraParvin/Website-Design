@@ -1,0 +1,56 @@
+body{
+	background-color:pink;
+	}
+	a{
+		margin:0;
+	    padding:0;
+		background-color: #7CA30E ;
+		width: 100%;
+		height: 50px;
+		text-decoration: none;
+	}
+h1{
+	font-size: 40px;
+	color: green; 
+	text-align: center;
+	text-shadow: 3px 2px 4px red;
+	}
+#d1{
+	width: 100%;
+	height: 350px;
+	color:white;
+	text-decoration: uppercase;
+	background-image: url('leaf.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;	
+	background-position: center center;
+	}
+#d2{
+	width:100%;
+	height:50px;
+	text-align: center;
+	background-color: #7CA30E;
+	}
+#d0{
+	width:100%;
+	height:50px;
+	text-align: center;
+	background-color: #7CA30E;
+}
+.p1{
+	color: blue;
+	text-align: center;
+	font-size: 40px;
+	}
+.p2{
+	margin:0;
+	padding:0;
+	width:100%;
+	height:40px;
+	background-color: #7CA30E;
+	font-size:20px;
+	color: red;
+	text-decoration: line-through;
+	text-transform: uppercase;
+	text-align: center;
+	}
