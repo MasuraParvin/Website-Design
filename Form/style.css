@@ -1,0 +1,68 @@
+body{
+
+	background-image: url('bh.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#d1{
+	margin-left: 286px;
+	width: 740px;
+	padding: 10px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+.main{
+	margin: 0 auto;
+	width: 600px;
+	background-color: #FFFFFF;
+    padding: 80px;
+}
+input[type=text],input[type=submit],input[type=email],input[type=number],select,span
+{
+	font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    padding: 8px 25px;
+}
+input[type=text],input[type=submit],input[type=email],input[type=number],input[type=radio],select{
+	border: none;
+	background-color: #E5E5E5;
+	border-radius: 6px;
+}
+input[type=submit]{
+	background-color: red;
+}
+input[name="fname"]
+{
+margin-right: 20px;
+width: 150px;
+}
+input[name="lname"]{
+width: 150px;
+}
+span{
+	margin-right: 20px;
+}
+#c{margin-right: 0;}
+input[name="company"]{
+width: 373px;
+}
+input[type=email]{
+	width: 373px;
+}
+input[name="area"]{
+	width: 30px;
+	margin-right: 20px;
+}
+input[name="phone"]{
+
+width: 265px;}
+select{
+	width:412px ;
+}
+input[type=submit]{
+margin-right: 20px;
+
+}
