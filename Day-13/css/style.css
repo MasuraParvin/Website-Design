@@ -1,0 +1,23 @@
+body{
+   background-color: pink;
+}
+
+.navbar-default {
+    background-color: deeppink;
+    border-color: red;
+    color: aqua;
+    text-transform: uppercase;
+ }
+.table{
+   background-color: beige;
+}
+
+.pagination {
+   float: right;
+}
+#myCarousel img{
+   margin: auto;
+}
+#myCarousel{
+   margin-bottom: 30px;
+}
